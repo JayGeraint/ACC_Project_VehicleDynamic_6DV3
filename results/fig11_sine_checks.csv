@@ -1,0 +1,8 @@
+Case,EngineeringCheck,Pass
+fig11_sine,"Scenario playback matches prescribed samples",1
+fig11_sine,"Time grid, finite controls and ego state",1
+fig11_sine,"Commands in bounds, no simultaneous pedals",1
+fig11_sine,"Nonnegative speed, monotone travel",1
+fig11_sine,"Acceleration bounded within [-4.5,3.5] m/s^2",1
+fig11_sine,"Free road stays in cruise mode",1
+fig11_sine,"Sine cruise RMSE after first 5 s below 4 km/h",1

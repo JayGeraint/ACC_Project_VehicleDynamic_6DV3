@@ -1,0 +1,9 @@
+Case,EngineeringCheck,Pass
+fig12_multistage,"Scenario playback matches prescribed samples",1
+fig12_multistage,"Time grid, finite controls and ego state",1
+fig12_multistage,"Commands in bounds, no simultaneous pedals",1
+fig12_multistage,"Nonnegative speed, monotone travel",1
+fig12_multistage,"Acceleration bounded within [-4.5,3.5] m/s^2",1
+fig12_multistage,"Free road stays in cruise mode",1
+fig12_multistage,"Final 10 s within 1 km/h of cruise setting",1
+fig12_multistage,"Both acceleration and braking exercised",1

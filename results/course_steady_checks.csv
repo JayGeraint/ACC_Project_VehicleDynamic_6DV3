@@ -1,0 +1,8 @@
+Case,EngineeringCheck,Pass
+course_steady,"Scenario playback matches prescribed samples",1
+course_steady,"Time grid, finite controls and ego state",1
+course_steady,"Commands in bounds, no simultaneous pedals",1
+course_steady,"Nonnegative speed, monotone travel",1
+course_steady,"Acceleration bounded within [-4.5,3.5] m/s^2",1
+course_steady,"Free road stays in cruise mode",1
+course_steady,"Settled within 0.5 km/h throughout final 10 s",1

@@ -1,0 +1,10 @@
+Case,EngineeringCheck,Pass
+fig14_deceleration,"Scenario playback matches prescribed samples",1
+fig14_deceleration,"Time grid, finite controls and ego state",1
+fig14_deceleration,"Commands in bounds, no simultaneous pedals",1
+fig14_deceleration,"Nonnegative speed, monotone travel",1
+fig14_deceleration,"Acceleration bounded within [-4.5,3.5] m/s^2",1
+fig14_deceleration,"Bumper clearance positive for full case",1
+fig14_deceleration,"Sensor gap and range rate match bumper geometry",1
+fig14_deceleration,"One cruise-to-follow transition during lead ramp",1
+fig14_deceleration,"Settles within 1 km/h of 30, final gap error below 3 m",1

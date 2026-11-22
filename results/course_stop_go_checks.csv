@@ -1,0 +1,11 @@
+Case,EngineeringCheck,Pass
+course_stop_go,"Scenario playback matches prescribed samples",1
+course_stop_go,"Time grid, finite controls and ego state",1
+course_stop_go,"Commands in bounds, no simultaneous pedals",1
+course_stop_go,"Nonnegative speed, monotone travel",1
+course_stop_go,"Acceleration bounded within [-4.5,3.5] m/s^2",1
+course_stop_go,"Bumper clearance positive for full case",1
+course_stop_go,"Sensor gap and range rate match bumper geometry",1
+course_stop_go,"Full stop and brake hold for final 8 s of lead stop",1
+course_stop_go,"Stopped clearance within 1 m of standstill target",1
+course_stop_go,"Restarts, reaches within 1 km/h of 45 by end",1

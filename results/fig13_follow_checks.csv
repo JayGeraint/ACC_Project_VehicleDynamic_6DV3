@@ -1,0 +1,9 @@
+Case,EngineeringCheck,Pass
+fig13_follow,"Scenario playback matches prescribed samples",1
+fig13_follow,"Time grid, finite controls and ego state",1
+fig13_follow,"Commands in bounds, no simultaneous pedals",1
+fig13_follow,"Nonnegative speed, monotone travel",1
+fig13_follow,"Acceleration bounded within [-4.5,3.5] m/s^2",1
+fig13_follow,"Bumper clearance positive for full case",1
+fig13_follow,"Sensor gap and range rate match bumper geometry",1
+fig13_follow,"Continuous following, gap RMSE below 5 m",1

@@ -1,0 +1,50 @@
+Case,EngineeringCheck,Pass
+fig11_sine,"Scenario playback matches prescribed samples",1
+fig11_sine,"Time grid, finite controls and ego state",1
+fig11_sine,"Commands in bounds, no simultaneous pedals",1
+fig11_sine,"Nonnegative speed, monotone travel",1
+fig11_sine,"Acceleration bounded within [-4.5,3.5] m/s^2",1
+fig11_sine,"Free road stays in cruise mode",1
+fig11_sine,"Sine cruise RMSE after first 5 s below 4 km/h",1
+fig12_multistage,"Scenario playback matches prescribed samples",1
+fig12_multistage,"Time grid, finite controls and ego state",1
+fig12_multistage,"Commands in bounds, no simultaneous pedals",1
+fig12_multistage,"Nonnegative speed, monotone travel",1
+fig12_multistage,"Acceleration bounded within [-4.5,3.5] m/s^2",1
+fig12_multistage,"Free road stays in cruise mode",1
+fig12_multistage,"Final 10 s within 1 km/h of cruise setting",1
+fig12_multistage,"Both acceleration and braking exercised",1
+fig13_follow,"Scenario playback matches prescribed samples",1
+fig13_follow,"Time grid, finite controls and ego state",1
+fig13_follow,"Commands in bounds, no simultaneous pedals",1
+fig13_follow,"Nonnegative speed, monotone travel",1
+fig13_follow,"Acceleration bounded within [-4.5,3.5] m/s^2",1
+fig13_follow,"Bumper clearance positive for full case",1
+fig13_follow,"Sensor gap and range rate match bumper geometry",1
+fig13_follow,"Continuous following, gap RMSE below 5 m",1
+fig14_deceleration,"Scenario playback matches prescribed samples",1
+fig14_deceleration,"Time grid, finite controls and ego state",1
+fig14_deceleration,"Commands in bounds, no simultaneous pedals",1
+fig14_deceleration,"Nonnegative speed, monotone travel",1
+fig14_deceleration,"Acceleration bounded within [-4.5,3.5] m/s^2",1
+fig14_deceleration,"Bumper clearance positive for full case",1
+fig14_deceleration,"Sensor gap and range rate match bumper geometry",1
+fig14_deceleration,"One cruise-to-follow transition during lead ramp",1
+fig14_deceleration,"Settles within 1 km/h of 30, final gap error below 3 m",1
+course_stop_go,"Scenario playback matches prescribed samples",1
+course_stop_go,"Time grid, finite controls and ego state",1
+course_stop_go,"Commands in bounds, no simultaneous pedals",1
+course_stop_go,"Nonnegative speed, monotone travel",1
+course_stop_go,"Acceleration bounded within [-4.5,3.5] m/s^2",1
+course_stop_go,"Bumper clearance positive for full case",1
+course_stop_go,"Sensor gap and range rate match bumper geometry",1
+course_stop_go,"Full stop and brake hold for final 8 s of lead stop",1
+course_stop_go,"Stopped clearance within 1 m of standstill target",1
+course_stop_go,"Restarts, reaches within 1 km/h of 45 by end",1
+course_steady,"Scenario playback matches prescribed samples",1
+course_steady,"Time grid, finite controls and ego state",1
+course_steady,"Commands in bounds, no simultaneous pedals",1
+course_steady,"Nonnegative speed, monotone travel",1
+course_steady,"Acceleration bounded within [-4.5,3.5] m/s^2",1
+course_steady,"Free road stays in cruise mode",1
+course_steady,"Settled within 0.5 km/h throughout final 10 s",1
