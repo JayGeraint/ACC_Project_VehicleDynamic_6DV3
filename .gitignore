@@ -1,0 +1,14 @@
+# MATLAB and Simulink build products
+slprj/
+*.slxc
+*_grt_rtw/
+*_ert_rtw/
+codegen/
+
+# Editor, model backup, and local OS files
+*.asv
+*.autosave
+*.slx.bak
+*.slx.r20*
+Thumbs.db
+.DS_Store
